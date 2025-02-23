@@ -203,7 +203,5 @@ Certification Date: [Date]
 
 ---
 
-*Last Updated: February 23, 2025*  
 *Version: 1.0.0*
 
-*Note: This guide is based on the official AI Environmental Transparency & Efficiency Act (AETEA) documentation. Organizations should consult with legal and technical experts for specific implementation requirements.*
