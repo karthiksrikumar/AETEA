@@ -1,5 +1,7 @@
 # AI Environmental Transparency & Efficiency Act (AETEA) Implementation 
-This policy related to OATNET, for the 2025 Connecticut Science and Engineering Fair
+This policy is also from OATNET, my submission for the 2025 Connecticut Science and Engineering Fair
+
+Future Steps entail for discourse with members of House.
 
 ## Table of Contents
 * [Overview](#overview)
