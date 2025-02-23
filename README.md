@@ -1,7 +1,7 @@
 # AI Environmental Transparency & Efficiency Act (AETEA) Implementation 
 This policy is also from OATNET, my submission for the 2025 Connecticut Science and Engineering Fair
 
-Future Steps entail for discourse with members of House.
+Future Steps entail discourse with members of the House, and other avid policymakers.
 
 ## Table of Contents
 * [Overview](#overview)
